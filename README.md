@@ -23,6 +23,12 @@ A simple command line program that asks questions about a software engineering t
 
 ## Screenshots:
 
+<img width="575" alt="Screen Shot 2022-03-20 at 8 01 28 PM" src="https://user-images.githubusercontent.com/90540881/159191751-2d36a4b1-8a4f-4b0c-a641-b93ad7068ecf.png">
+
+<img width="649" alt="Screen Shot 2022-03-20 at 8 03 05 PM" src="https://user-images.githubusercontent.com/90540881/159191753-19acbc59-c972-43e2-aa1a-778f75394a1b.png">
+
+![Screen Shot 2022-03-20 at 8 03 24 PM](https://user-images.githubusercontent.com/90540881/159191771-309af0c2-eeca-4a78-83ad-558378a4da05.png)
+
 ## Dependencies:
 - HTML
 - CSS
