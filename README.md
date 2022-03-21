@@ -2,7 +2,7 @@
 
 ### Github: https://github.com/Cesar863/team-profile-generator
 
-### Walkthrough video:
+### Walkthrough video: https://youtu.be/kFxgyjkgUtE
 
 ## Description:
 A simple command line program that asks questions about a software engineering team and then generates an HTML webpage that displays the information of the team members.
