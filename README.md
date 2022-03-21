@@ -1,6 +1,6 @@
 # Team Profile Generator
 
-### Github: 
+### Github: https://github.com/Cesar863/team-profile-generator
 
 ### Walkthrough video:
 
